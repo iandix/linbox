@@ -12,4 +12,4 @@ Java
 VS Code
 -------
 * Installed VS Code from Microsoft repo as a Debian package (in oposition to a Snap installation)
-* Installed Miniconda3 from the Anaconda repo
+* Installed Miniconda3 from the Anaconda repo (no conda init, .bashrc adjusted manually)
