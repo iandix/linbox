@@ -3,8 +3,8 @@ Linux development box configs &amp; stuff
 
 After a pristine Ubuntu 20.04 installation on the ONKYO-NB, the following stuff was set up:
 
-Java
-----
+Java (IRPF)
+-----------
 * Installed JDK-11 via update-alternatives
 * Installed JKD-8 via update-alternatives
 * JDK-8 was made default Java
