@@ -40,3 +40,8 @@ To check the global dir changed accordingly:
 ```console
 npm list -g
 ```
+Node Global Packages
+--------------------
+```console
+npm install -g degit
+```
